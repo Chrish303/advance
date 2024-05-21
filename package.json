@@ -1,0 +1,21 @@
+{
+  "name": "chatbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.13.0",
+    "apollo": "^2.34.0",
+    "apollo-server": "^3.13.0",
+    "graphql": "^14.7.0",
+    "prisma": "^5.14.0",
+    "server": "^1.0.39"
+  }
+}
